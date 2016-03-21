@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+}
+
+body {
+  background-color:black;
+  color: white
+}
+
+.container{
+  width: 1000px;
+  text-align: center;
+}
+
+.list {
+  width: 200px;
+  margin: 0 auto;
+}
+
+span{
+  font-weight: bold;
+}
+figure{
+  text-align: center;
+}
