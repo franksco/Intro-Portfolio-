@@ -1,34 +1,37 @@
-# _{Code_Review_Webpage}_
+# Portfolio Webpage
 
-#### _{Design a webpage using Bootstrap, HTML, and CSS}, {03/21/2016}_
+#### Design a webpage using Bootstrap, HTML, and CSS. 
 
-#### By _**{Cory Franks}**_
+#### By Cory Franks on 03/21/2016
 
 ## Description
 
-_{The assignment is to creat a webpage using HTML, CSS, and Bootstrap elements}_
+The assignment is to creat a webpage using HTML, CSS, and Bootstrap elements
 
 ## Setup/Installation Requirements
 
-* _download clone to local repository_
-* _open folder_
-* _click on html file_
-* _look at webpage_
+* download clone to local repository
+* open folder
+* click on html file
+* look at webpage
 
 ## Known Bugs
 
-_{No known bugs at this time. }_
+No known bugs at this time.
 
 ## Support and contact details
 
-_{Contact Cory Franks at franksco39@gmail.com}_
+Contact Cory Franks at franksco39@gmail.com
 
 ## Technologies Used
 
-_{The Programs/Technologies that I used: were atom, HTML, CSS and Bootstrap.}_
+ * Atom
+ * HTML
+ * CSS
+ * Bootstrap
 
 ### License
 
-*{MIT}*
+MIT
 
-Copyright (c) 2015 **_{Cory Franks}_**
+Copyright (c) 2016 Cory Franks
